@@ -2,4 +2,4 @@
 
 ### 缓存
 
-- [缓存更新的套路](https://coolshell.cn/articles/17416.html)
+- [CoolShell - 缓存更新的套路](https://coolshell.cn/articles/17416.html)
