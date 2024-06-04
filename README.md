@@ -7,3 +7,7 @@
 ### 性能优化
 
 - [CoolShell - 由12306.CN谈谈网站性能技术](https://coolshell.cn/articles/6470.html)
+
+### 程序人生
+
+- [风云的 BLOG - 重新启程](https://blog.codingnow.com/2024/05/farewell.html)
