@@ -1,5 +1,9 @@
 ## 我喜欢的博客
 
+- [何人听我楚狂声](https://shinya.click/)
+
+## 部分文章记录
+
 ### 缓存
 
 - [CoolShell - 缓存更新的套路](https://coolshell.cn/articles/17416.html)
