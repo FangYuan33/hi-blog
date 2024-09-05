@@ -8,6 +8,10 @@
 
 - [CoolShell - 缓存更新的套路](https://coolshell.cn/articles/17416.html)
 
+### 分布式锁
+
+- [博客园 - 利用分布式锁在ASP.NET Core中实现防抖](https://www.cnblogs.com/wucy/p/18394437/aspnetcore-distributed-lock-debounce)
+
 ### 性能优化
 
 - [CoolShell - 由12306.CN谈谈网站性能技术](https://coolshell.cn/articles/6470.html)
