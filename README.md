@@ -4,6 +4,10 @@
 
 ## 部分文章记录
 
+### MySQL
+
+- [京东面试：分库分表后，如何设计 深度翻页？](https://mp.weixin.qq.com/s/Mx3G2R88EHO0koC8-HcWDA)
+
 ### 缓存
 
 - [CoolShell - 缓存更新的套路](https://coolshell.cn/articles/17416.html)
