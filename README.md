@@ -8,10 +8,6 @@
 
 - [京东面试：分库分表后，如何设计 深度翻页？](https://mp.weixin.qq.com/s/Mx3G2R88EHO0koC8-HcWDA)
 
-### 缓存
-
-- [CoolShell - 缓存更新的套路](https://coolshell.cn/articles/17416.html)
-
 ### 分布式锁
 
 - [博客园 - 利用分布式锁在ASP.NET Core中实现防抖](https://www.cnblogs.com/wucy/p/18394437/aspnetcore-distributed-lock-debounce)
